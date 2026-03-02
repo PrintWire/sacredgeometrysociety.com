@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sacredgeometrysociety.com/sitemap.xml
